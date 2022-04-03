@@ -1,12 +1,15 @@
+```
 One more time
 One more time
 One more time, we're gonna celebrate
+
 Oh yeah, alright, don't stop the dancing
 One more time, we're gonna celebrate
 Oh yeah, alright, don't stop the dancing
 One more time, we're gonna celebrate
 Oh yeah, alright, don't stop the dancing
 One more time, we're gonna celebrate
+
 Oh yeah
 One more time
 One more time, we're gonna celebrate
@@ -85,3 +88,4 @@ One more time
 Music's got me feeling so free
 We're gonna celebrate
 Celebrate and dance so free
+```
